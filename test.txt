@@ -4,3 +4,4 @@
 这是main上的分支上的内容,这是增加mergedemo上的
 >>>>>>> mergedemo
 解决分支冲突，，，，，，
+version1
