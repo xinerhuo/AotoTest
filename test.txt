@@ -5,3 +5,4 @@
 >>>>>>> mergedemo
 解决分支冲突，，，，，，
 version1
+version2
